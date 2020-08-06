@@ -10,6 +10,6 @@ With this plugin installed, a `_redirects` file will be generated from [CSV](htt
 /profile	/profile	200! Role=user
 ```
 
-This is helpful if you need to deploy redirects based on environment or deployment context. You can see an example of the build output [here](https://app.netlify.com/sites/netlify-plugin-redirects-demo/deploys/5f1f58e41af5800008634e2a). 
+This is helpful if you need to deploy redirects based on environment or deployment context. You can see an example of the build output [here](https://app.netlify.com/sites/netlify-plugin-redirects-demo/deploys/5f2c6f6d0d2a4d0008c4a90a). 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ample/netlify-plugin-redirects-demo)
