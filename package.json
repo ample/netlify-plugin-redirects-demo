@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ample/netlify-plugin-redirects-demo#readme",
   "devDependencies": {
-    "@helloample/netlify-plugin-redirects": "^1.1.1"
+    "@helloample/netlify-plugin-redirects": "^1.2.0"
   }
 }
